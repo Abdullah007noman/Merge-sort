@@ -19,4 +19,10 @@ Let's walk through how the algorithm works on our array [5,2,4,7,1,3,2,6]:
 
 * Final merge: [2,4,5,7] and [1,2,3,6] → [1,2,2,3,4,5,6,7]
 
-  
+
+# The output will be:
+```
+Original array: [5, 2, 4, 7, 1, 3, 2, 6]
+Sorted array: [1, 2, 2, 3, 4, 5, 6, 7]
+
+```
