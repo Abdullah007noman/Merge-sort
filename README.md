@@ -6,8 +6,8 @@
 * Split left half: [5,2] and [4,7]
 
     * Split again: [5] and [2] → merge to [2,5]
-    *Split again: [4] and [7] → merge to [4,7]
-    *Merge [2,5] and [4,7] → [2,4,5,7]
+    * Split again: [4] and [7] → merge to [4,7]
+    * Merge [2,5] and [4,7] → [2,4,5,7]
 
 
 * Split right half: [1,3] and [2,6]
