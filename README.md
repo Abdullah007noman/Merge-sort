@@ -2,7 +2,7 @@
 
 Let's walk through how the algorithm works on our array [5,2,4,7,1,3,2,6]:
 
-** 1.First split: [5,2,4,7] and [1,3,2,6]
+*1.First split: [5,2,4,7] and [1,3,2,6]
 Split left half: [5,2] and [4,7]
 
 Split again: [5] and [2] → merge to [2,5]
